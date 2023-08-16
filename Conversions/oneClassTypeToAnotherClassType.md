@@ -32,7 +32,7 @@ the source class and the result is given to the destination class.
 </tr>
 
 <tr>                 <!-- Second row -->
-<!--<td></td>-->
+<td></td>
 <td>Source class</td>
 <td>Destination class</td>
 </tr>
