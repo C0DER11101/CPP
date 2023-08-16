@@ -28,7 +28,7 @@ the source class and the result is given to the destination class.
 
 <tr>                 <!-- First row -->
 <td><em>Conversion required</em></td>
-<td colspan="2"><em>Convertion takes place in</em></td>
+<td colspan="2"><em>Conversion takes place in</em></td>
 </tr>
 
 <tr>                 <!-- Second row -->
