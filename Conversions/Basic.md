@@ -33,7 +33,7 @@ _assignment operator._
 **Three types of situations might arise in the data conversion between uncompatible types:**
 
 1. [<ins>Conversion from basic type to class type</ins>](https://github.com/C0DER11101/CPP/blob/quickCPP/Conversions/basicToClassType.md)
-2. [<ins>Conversion from class type to basic type</ins>]().
+2. [<ins>Conversion from class type to basic type</ins>](https://github.com/C0DER11101/CPP/blob/quickCPP/Conversions/classToBasicType.md).
 3. [<ins>Conversion from one class type to another class type</ins>]().
 
 <p align="center">
