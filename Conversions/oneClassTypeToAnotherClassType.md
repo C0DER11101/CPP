@@ -25,15 +25,36 @@ the source class and the result is given to the destination class.
 <ins>**Conversion table**</ins>
 
 <table>
-<tr>
+
+<tr>                 <!-- First row -->
 <td>Conversion required</td>
 <td colspan="2">Convertion takes place in</td>
 </tr>
-<tr>
-<td></td>
+
+<tr>                 <!-- Second row -->
+<!--<td></td>-->
 <td>Source class</td>
 <td>Destination class</td>
 </tr>
+
+<tr>                  <!-- Third row -->
+<td>Basic $\rightarrow$ class</td>
+<td>Not applicable</td>
+<td>Constructor</td>
+</tr>
+
+<tr>
+<td>Class $\rightarrow$ basic</td>
+<td>Casting operator</td>
+<td>Not applicable</td>
+</tr>
+
+<tr>
+<td>Class $\rightarrow$ class</td>
+<td>Casting operator</td>
+<td>Constructor</td>
+</tr>
+
 </table>
 
 <p align="center">
