@@ -6,7 +6,7 @@ Consider the following constructor:
 string::string(char*s)
 {
 	length=strlen(s);
-	p=new char(length+1);
+	p=new char[length+1];
 	strcpy(p, s);
 }
 ```
