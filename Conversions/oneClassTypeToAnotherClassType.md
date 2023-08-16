@@ -24,12 +24,17 @@ the source class and the result is given to the destination class.
 
 <ins>**Conversion table**</ins>
 
-|Conversion required|Conversion takes place in|
-|:-----------------:|:---------:|:-----------:|
-|Conversion required|Source class|Destination class|
-|Basic $\rightarrow$ class|Not applicable|Constructor|
-|Class $\rightarrow$ basic|Casting operator|Not applicable|
-|Class $\rightarrow$ class|Casting operator|Constructor|
+<table>
+<tr>
+<td>Conversion required</td>
+<td colspan="2">Convertion takes place in</td>
+</tr>
+<tr>
+<td>Basic $\rightarrow$ class</td>
+<td>Class $\rightarrow$ basic</td>
+<td>Class $\rightarrow$ class</td>
+</tr>
+</table>
 
 <p align="center">
 &#9678; &#9678; &#9678;
