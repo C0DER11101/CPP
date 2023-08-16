@@ -27,14 +27,14 @@ the source class and the result is given to the destination class.
 <table>
 
 <tr>                 <!-- First row -->
-<td>Conversion required</td>
-<td colspan="2">Convertion takes place in</td>
+<td>_Conversion required_</td>
+<td colspan="2">_Convertion takes place in_</td>
 </tr>
 
 <tr>                 <!-- Second row -->
 <td></td>
-<td>Source class</td>
-<td>Destination class</td>
+<td>**Source class**</td>
+<td>**Destination class**</td>
 </tr>
 
 <tr>                  <!-- Third row -->
