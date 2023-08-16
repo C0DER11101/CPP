@@ -25,9 +25,8 @@ the source class and the result is given to the destination class.
 <ins>**Conversion table**</ins>
 
 |Conversion required|Conversion takes place in|
-|:-----------------:|:-----------------------:|
-|:-----------------:|Source Class|Destination Class|
-|:-----------------:|:----------:|:---------------:|
+|:-----------------:|:---------:|:-----------:|
+|Conversion required|Source class|Destination class|
 |Basic $\rightarrow$ class|Not applicable|Constructor|
 |Class $\rightarrow$ basic|Casting operator|Not applicable|
 |Class $\rightarrow$ class|Casting operator|Constructor|
