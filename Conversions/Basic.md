@@ -1,6 +1,6 @@
 # Basic type conversion
 
-**Usually, an assignment operator causes the automatic type conversion. _The type of data to the right of an assignment_**.
+**Usually, an assignment operator causes the automatic type conversion. _The type of data to the right of an assignment_**
 **_operator is automatically converted to the type of the variable on the left_**.
 
 Example:
