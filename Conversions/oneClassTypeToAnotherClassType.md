@@ -30,9 +30,9 @@ the source class and the result is given to the destination class.
 <td colspan="2">Convertion takes place in</td>
 </tr>
 <tr>
-<td>Basic $\rightarrow$ class</td>
-<td>Class $\rightarrow$ basic</td>
-<td>Class $\rightarrow$ class</td>
+<td></td>
+<td>Source class</td>
+<td>Destination class</td>
 </tr>
 </table>
 
