@@ -34,6 +34,7 @@ double length=double(V1); // explicitly calling the conversion function
 <p align="center">
 **OR**
 </p>
+
 ```c++
 double length=V1; // implicitly calling the conversion function
 ```
