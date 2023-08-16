@@ -9,7 +9,9 @@ _To perform this operation, we overload the_ <ins>_casting operator_</ins>.
 operator typeName()
 ```
 
-`typeName` can be any valid data type such as `int`, `float`, `double`, etc...
+`typeName` can be any built-in type such as `int`, `float`, `double`, etc., or any user-defined type such as another class type or struct type.
+
+**The casting operator function converts the class object of which it's a member to** `typeName`.
 
 
 Now, consider the following conversion function:
