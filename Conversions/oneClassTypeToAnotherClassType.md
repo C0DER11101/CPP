@@ -32,7 +32,6 @@ the source class and the result is given to the destination class.
 </tr>
 
 <tr>                 <!-- Second row -->
-<td></td>
 <td><strong>Source class</strong></td>
 <td><strong>Destination class</strong></td>
 </tr>
