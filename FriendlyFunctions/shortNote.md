@@ -1,5 +1,5 @@
 # <ins>const member functions</ins>
-* ${\color{Turquoise}Such\ functions\ don't\ can't\ alter\ any\ data\ in\ the\ class.}$
+* ${\color{Turquoise}Such\ functions\ don't\ \/can't\ alter\ any\ data\ in\ the\ class.}$
 
 ${\color{yellow}\underline{General\ form\:}}$
 ```c++
