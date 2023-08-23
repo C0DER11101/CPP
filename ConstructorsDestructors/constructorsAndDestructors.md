@@ -54,6 +54,38 @@ className classObject(actual arguments);
 
 **It's used to <ins>declare</ins> an object from another object.**
 
+${\color{Yellow}General form:}$
+
+```c++
+className(className&){
+	// body of the constructor
+}
+```
+
+$$OR$$
+
+```c++
+className::className(className&){
+	// body of the constructor
+}
+```
+
+[Sample program](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsDestructors/Programs/copyConst.cpp).
+
+<details>
+<summary><strong><em>NOTE</em></strong></summary>
+<strong>If you have defined a copy constructor in your program then an object assignment such as</strong>:
+className classObject2=classObject1;
+
+will also invoke the copy constructor.
+
+Otherwise <strong>if there is no copy constructor in your program, then the compiler supplies its own copy constructor</strong>.
+
+</details>
+
+## <ins>Dynamic constructors</ins>
+[This](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsDestructors/Programs/dynamicConst.cpp) program should be enough.
+
 <p align="center">
 &#9678; &#9678; &#9678;
 </p>
