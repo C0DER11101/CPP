@@ -40,10 +40,12 @@ className classObject(actual arguments);
 
 <details>
 <summary>NOTE</summary>
-\textbf{Constructors\ defined\ inside\ a\ class\ are\ \underline{inline\ constructors}.}
+**Constructors defined inside a class are inline constructors.**
 
-\textbf{Parameters\ of\ a\ constructor\ can\ be\ of\ any\ type\ except\ that\ of\ the\ class\ to\ which\ it\ belongs.}
-\textbf{However\ it\ may\ take\ a\ reference\ to\ its\ own\ class.}
+**Parameters of a constructor can be of any type except that of the class to which it belongs.**
+
+**However it may take a reference to its own class.**
+
 </details>
 
 <p align="center">
