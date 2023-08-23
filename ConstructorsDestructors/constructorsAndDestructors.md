@@ -1,9 +1,9 @@
 # <ins>Constructors and destructors</ins>
 
 ## <ins>Constructors</ins>
-* ${\color{VioletRed}\underline{Task}\: \textbf{Initialize\ objects\ of\ the\ class.}}$
-* ${\color{VioletRed}Has\ same\ name\ as\ the\ class.}$
-* ${\color{VioletRed}Invoked\ whenever\ an\ object\ of\ its\ associated\ class\ is\ created.}$
+* $${\color{VioletRed}\underline{Task}\: \textbf{Initialize\ objects\ of\ the\ class.}}$$
+* $${\color{VioletRed}Has\ same\ name\ as\ the\ class.}$
+* $${\color{VioletRed}Invoked\ whenever\ an\ object\ of\ its\ associated\ class\ is\ created.}$$
 
 **A constructor that doesn't accept any parameters is called <ins>default constructor</ins>.**
 
@@ -14,12 +14,12 @@ className::className()
 ```
 
 ## <ins>Characteristics</ins>
-* ${\color{NavyBlue}Declared\ in\ the\ public\ section\ of\ the\ class.}$
-* ${\color{NavyBlue}Don't\ have\ return\ types.}$
-* ${\color{NavyBlue}Can't\ be\ inherited.}$
-* ${\color{NavyBlue}\textbf{Support\ default\ arguments.}}$
-* ${\color{NavyBlue}\textbf{Can't\ be\ virtual.}}$
-* ${\color{NavyBlue}Object\ with\ constructor\ or\ destructor\ can\ be\ used\ as\ a\ member\ of\ a\ union.}$
+* $${\color{NavyBlue}Declared\ in\ the\ public\ section\ of\ the\ class.}$$
+* $${\color{NavyBlue}Don't\ have\ return\ types.}$$
+* $${\color{NavyBlue}Can't\ be\ inherited.}$$
+* $${\color{NavyBlue}\textbf{Support\ default\ arguments.}}$$
+* $${\color{NavyBlue}\textbf{Can't\ be\ virtual.}}$$
+* $${\color{NavyBlue}Object\ with\ constructor\ or\ destructor\ can\ be\ used\ as\ a\ member\ of\ a\ union.}$$
 
 ### <ins>Parameterized constructors</ins>
 **These constructors take arguments.**
@@ -45,9 +45,14 @@ className classObject(actual arguments);
 
 **Parameters of a constructor can be of any type except that of the class to which it belongs.**
 
-**However it may take a reference to its own class.**
+**However it may take a reference to its own class(then it's a copy constructor).**
 
 </details>
+
+## <ins>Copy constructor</ins>
+* This constructor accepts a <ins><strong>reference</strong></ins> to its own class as a parameter.
+
+**It's used to <ins>declare</ins> an object from another object.**
 
 <p align="center">
 &#9678; &#9678; &#9678;
