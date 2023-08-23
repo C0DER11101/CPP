@@ -54,7 +54,7 @@ className classObject(actual arguments);
 
 **It's used to <ins>declare</ins> an object from another object.**
 
-${\color{Yellow}General form:}$
+${\color{Yellow}General\ form:}$
 
 ```c++
 className(className&){
