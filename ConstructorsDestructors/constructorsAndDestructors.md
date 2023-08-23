@@ -30,6 +30,7 @@ className::className()
 className classObject=className(actual arguments);
 ```
 [Sample program](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsDestructors/Programs/parameterizedCons.cpp).
+
 2. <ins>Implicit call</ins>:
 ```c++
 className classObject(actual arguments);
