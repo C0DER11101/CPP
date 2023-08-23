@@ -57,7 +57,7 @@ className classObject(actual arguments);
 ${\color{Yellow}General\ form:}$
 
 ```c++
-className(className&){
+className(className&classObject){
 	// body of the constructor
 }
 ```
@@ -65,7 +65,7 @@ className(className&){
 $$OR$$
 
 ```c++
-className::className(className&){
+className::className(className&classObject){
 	// body of the constructor
 }
 ```
