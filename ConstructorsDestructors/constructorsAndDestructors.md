@@ -40,6 +40,7 @@ className classObject(actual arguments);
 
 <details>
 <summary>NOTE</summary>
+
 **Constructors defined inside a class are inline constructors.**
 
 **Parameters of a constructor can be of any type except that of the class to which it belongs.**
