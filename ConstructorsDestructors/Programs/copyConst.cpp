@@ -20,6 +20,7 @@ sample::sample(int val){
 }
 
 sample::sample(sample&s){
+	cout<<"\nCopy constructor called!\n";
 	value=s.value;
 }
 
@@ -43,5 +44,9 @@ int main(void){
 
 	s1.show();
 	s2.show();
+
+	sample s3=s1; // invokes the copy constructor because it exists in the program, otherwise simple object assignment would have taken place
+
+	s3.show();
 	return 0;
 }
