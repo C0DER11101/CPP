@@ -29,10 +29,21 @@ className::className()
 ```c++
 className classObject=className(actual arguments);
 ```
+[Sample program](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsDestructors/Programs/parameterizedCons.cpp).
 2. <ins>Implicit call</ins>:
 ```c++
 className classObject(actual arguments);
 ```
+[Sample program](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsDestructors/Programs/parameterizedCons2.cpp).
+
+
+<details>
+<summary>NOTE</summary>
+${\textbf{Constructors\ defined\ inside\ a\ class\ are\ \underline{inline\ constructors}.}}$
+
+${\textbf{Parameters\ of\ a\ constructor\ can\ be\ of\ any\ type\ except\ that\ of\ the\ class\ to\ which\ it\ belongs.}}$
+${\textbf{However\ it\ may\ take\ a\ reference\ to\ its\ own\ class.}}$
+</details>
 
 <p align="center">
 &#9678; &#9678; &#9678;
