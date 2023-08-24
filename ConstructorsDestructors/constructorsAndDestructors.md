@@ -86,6 +86,48 @@ Otherwise <strong>if there is no copy constructor in your program, then the comp
 ## <ins>Dynamic constructors</ins>
 [This](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsDestructors/Programs/dynamicConst.cpp) program should be enough.
 
+## <ins>const objects</ins>
+* Values of such objects <ins>cannot</ins> be changed/modified.
+
+${textbf{const\ objects\ can\ only\ call\ const\ member\ functions.}}$
+
+${\color{Yello}General\ syntax\:}$
+
+```c++
+const className classObject;
+```
+
+[Sample program](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsDestructors/Programs/constObjects.cpp).
+
+
+## <ins>Destructors</ins>
+* Used to destroy the objects which were created by the constructor.
+
+${color{Yello}General\ syntax\:}$
+
+```c++
+~className(){
+	// body of the destructor
+}
+```
+
+## <ins>Characteristics</ins>
+* ${\color{NavyBlue}\textbf{Never}\ \underline{takes}\ arguments.}$
+* ${\color{NavyBlue}\textbf{Never}\ \underline{returns}\ values.}$
+* ${\color{NavyBlue}Invoked \textbf{implicitly}\ upon\ exiting\ from\ the\ \textbf{\underline{program},\ \underline{block},\ or\ \underline{function}}\ to\ clean\ up\ storage\ that\ is\ no\ longer\ accessible.}$
+
+<details>
+<summary><em>Note</em></summary>
+
+&#9658;<strong>As the program control leaves the <em>current block</em>, the objects in the block start getting destroyed one by
+one as the destructor is called for each object in that block.</strong>
+
+&#9658; <strong>Objects are destroyed in the <em>reverse order</em> of their creation.</strong>
+
+</details>
+
+[Sample program](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsDestructors/Programs/destObjects.cpp).
+
 <p align="center">
 &#9678; &#9678; &#9678;
 </p>
