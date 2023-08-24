@@ -91,7 +91,7 @@ Otherwise <strong>if there is no copy constructor in your program, then the comp
 
 ${\textbf{const\ objects\ can\ only\ call\ const\ member\ functions.}}$
 
-${\color{Yello}General\ syntax\:}$
+${\color{Yellow}General\ syntax\:}$
 
 ```c++
 const className classObject;
@@ -103,7 +103,7 @@ const className classObject;
 ## <ins>Destructors</ins>
 * Used to destroy the objects which were created by the constructor.
 
-${color{Yellow}General\ syntax\:}$
+${\color{Yellow}General\ syntax\:}$
 
 ```c++
 ~className(){
