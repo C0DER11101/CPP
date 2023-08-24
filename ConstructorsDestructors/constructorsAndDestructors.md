@@ -114,7 +114,7 @@ ${\color{Yellow}General\ syntax\:}$
 ## <ins>Characteristics</ins>
 * ${\color{NavyBlue}\textbf{Never}\ \underline{takes}\ arguments.}$
 * ${\color{NavyBlue}\textbf{Never}\ \underline{returns}\ values.}$
-* ${\color{NavyBlue}Invoked \textbf{implicitly}\ upon\ exiting\ from\ the\ \textbf{program},\ \textbf{block},\ or\ textbf{function}\ to\ clean\ up\ storage\ that\ is\ no\ longer\ accessible.}$
+* ${\color{NavyBlue}Invoked\ \textbf{implicitly}\ upon\ exiting\ from\ the\ \textbf{program},\ \textbf{block},\ or\ \textbf{function}\ to\ clean\ up\ storage\ that\ is\ no\ longer\ accessible.}$
 
 <details>
 <summary><em>Note</em></summary>
