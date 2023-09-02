@@ -20,13 +20,19 @@ class derivedClassName:visibilityMode baseClassName{
 
 <table>
 <tr>
-<td rowspan="2"><strong>Base class members</strong></td>
-<td rowspan="2"><strong>are</strong></td>
+<td rowspan="3"><strong>Base class members</strong></td>
+<td rowspan="3"><strong>are</strong></td>
 <td><strong>Derived class visibility</strong></td>
 </tr>
 
 <tr>
 <td>Derivation mode</td>
+</tr>
+
+<tr>
+<td><strong>Public</strong</td>
+<td><strong>Private</strong</td>
+<td><strong>Protected</strong</td>
 </tr>
 </table>
 
