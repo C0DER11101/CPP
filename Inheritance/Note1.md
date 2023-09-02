@@ -34,6 +34,14 @@ class derivedClassName:visibilityMode baseClassName{
 <td><strong>Private</strong</td>
 <td><strong>Protected</strong</td>
 </tr>
+
+<tr>
+<td>Private members</td>
+<td>$\rightarrow$</td>
+<td>not inherited</td>
+<td>not inherited</td>
+<td>not inherited</td>
+</tr>
 </table>
 
 <p align="center">
