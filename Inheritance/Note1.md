@@ -22,11 +22,11 @@ class derivedClassName:visibilityMode baseClassName{
 <tr>
 <td rowspan="3"><strong>Base class members</strong></td>
 <td rowspan="3"><strong>are</strong></td>
-<td><strong>Derived class visibility</strong></td>
+<td colspan="3"><strong>Derived class visibility</strong></td>
 </tr>
 
 <tr>
-<td>Derivation mode</td>
+<td colspan="3">Derivation mode</td>
 </tr>
 
 <tr>
