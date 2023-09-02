@@ -54,7 +54,7 @@ class derivedClassName:visibilityMode baseClassName{
 <tr>
 <td>Protected members</td>
 <td>$\rightarrow$</td>
-<td>public</td>
+<td>protected</td>
 <td>private</td>
 <td>protected</td>
 </tr>
