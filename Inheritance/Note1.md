@@ -64,7 +64,7 @@ class derivedClassName:visibilityMode baseClassName{
 
 * [Single inheritance](https://github.com/C0DER11101/CPP/blob/quickCPP/Inheritance/Programs/SingleInheritance.cpp).
 * [Method calling](https://github.com/C0DER11101/CPP/blob/quickCPP/Inheritance/Programs/SingleInheritance2.cpp).
-##
+
 * [Multilevel inheritance: Accessing protected members of the super class via the subclasses](https://github.com/C0DER11101/CPP/blob/quickCPP/Inheritance/Programs/MultilevelInheritance.cpp).
 
 <p align="center">
