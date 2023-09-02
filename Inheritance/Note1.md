@@ -19,6 +19,7 @@ class derivedClassName:visibilityMode baseClassName{
 ## <ins>Visibility of inherited members</ins>
 
 <table>
+
 <tr>
 <td rowspan="3"><strong>Base class members</strong></td>
 <td rowspan="3"><strong>are</strong></td>
@@ -26,7 +27,7 @@ class derivedClassName:visibilityMode baseClassName{
 </tr>
 
 <tr>
-<td colspan="3">Derivation mode</td>
+<td colspan="3"><em>Derivation mode</em></td>
 </tr>
 
 <tr>
