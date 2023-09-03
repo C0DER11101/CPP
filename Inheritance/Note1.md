@@ -67,6 +67,8 @@ class derivedClassName:visibilityMode baseClassName{
 
 * [Multilevel inheritance: Accessing protected members of the super class via the subclasses](https://github.com/C0DER11101/CPP/blob/quickCPP/Inheritance/Programs/MultilevelInheritance.cpp).
 
+* [Multiple inheritance](https://github.com/C0DER11101/CPP/blob/quickCPP/Inheritance/Programs/MultipleInheritance.cpp).
+
 <p align="center">
 &#9678; &#9678; &#9678;
 </p>
