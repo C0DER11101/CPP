@@ -9,7 +9,7 @@
 
 ${\color{Yellow}General\ form\:}$
 ```c++
-derivedConstructor(argList1, argList2, ....., argListN)
+derivedConstructor(argList1, argList2, ....., argListN):
 Base1(argList1),
 Base2(argList2),
 .
