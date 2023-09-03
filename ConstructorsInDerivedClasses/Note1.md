@@ -39,7 +39,6 @@ BaseN(argListN)
 <tr>
 <td><code>A();</code>$\rightarrow$ The base constructor</td>
 </tr>
-
 <tr>
 <td><code>B();</code>$\rightarrow$ The derived constructor</td>
 </tr>
