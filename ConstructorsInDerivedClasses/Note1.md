@@ -27,13 +27,14 @@ BaseN(argListN)
 ## <ins>Table showing how execution of base class constructors takes place</ins>
 
 <table>
+
 <tr>
 <td><strong>Method of inheritance</strong></td>
 <td><strong>Order of execution</strong></td>
 </tr>
 
 <tr>
-<td rowspan="2"><code>class B:public A{};</code></td>
+<td rowspan="3"><code>class B:public A{};</code></td>
 </tr>
 
 <tr>
@@ -44,51 +45,51 @@ BaseN(argListN)
 </tr>
 
 <tr>
-<td rowspan="3"><code>class A:public B, public C{};</code></td>
+<td rowspan="4"><code>class A:public B, public C{};</code></td>
 </tr>
 
 <tr>
-<td><code>B();</code>$rightarrow$ The base constructor(first)</td>
+<td><code>B();</code>$\rightarrow$ The base constructor(first)</td>
 </tr>
 
 <tr>
-<td><code>C();</code>$rightarrow$ The base constructor(second)</td>
+<td><code>C();</code>$\rightarrow$ The base constructor(second)</td>
 </tr>
 
 <tr>
-<td><code>A();</code>$rightarrow$ The derived constructor</td>
+<td><code>A();</code>$\rightarrow$ The derived constructor</td>
 </tr>
 
 <tr>
-<td rowspan="3"><code>class A:public C, public B{};</code></td>
+<td rowspan="4"><code>class A:public C, public B{};</code></td>
 </tr>
 
 <tr>
-<td><code>C();</code>$rightarrow$ The base constructor(first)</td>
+<td><code>C();</code>$\rightarrow$ The base constructor(first)</td>
 </tr>
 
 <tr>
-<td><code>B();</code>$rightarrow$ The base constructor(second)</td>
+<td><code>B();</code>$\rightarrow$ The base constructor(second)</td>
 </tr>
 
 <tr>
-<td><code>A();</code>$rightarrow$ The derived constructor</td>
+<td><code>A();</code>$\rightarrow$ The derived constructor</td>
 </tr>
 
 <tr>
-<td rowspan="3"><code>class A:public B, virtual public C{};</code></td>
+<td rowspan="4"><code>class A:public B, virtual public C{};</code></td>
 </tr>
 
 <tr>
-<td><code>C();</code>$rightarrow$ The virtual base class constructor</td>
+<td><code>C();</code>$\rightarrow$ The virtual base class constructor</td>
 </tr>
 
 <tr>
-<td><code>B();</code>$rightarrow$ The base constructor</td>
+<td><code>B();</code>$\rightarrow$ The base constructor</td>
 </tr>
 
 <tr>
-<td><code>A();</code>$rightarrow$ The derived constructor</td>
+<td><code>A();</code>$\rightarrow$ The derived constructor</td>
 </tr>
 
 </table>
