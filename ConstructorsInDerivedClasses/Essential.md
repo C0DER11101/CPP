@@ -1,6 +1,6 @@
 # Very important
 
-* [Program-1](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsInDerivedClasses/Programs/constrDerived.cpp) $\rightarrow$ This program shows us that if the super class doesn't have any constructors then the subclasses may/maynot have constructors. If the subclasses have constructors then there is not problem and if they don't have any constructors then also there is not problem.
+* [Program-1](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsInDerivedClasses/Programs/constrDerived.cpp) $\rightarrow$ This program shows us that if the super class doesn't have any constructors then the subclasses may/maynot have constructors. If the subclasses have constructors then there is no problem and if they don't have any constructors then also there is no problem.
 
 * [Program-2](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsInDerivedClasses/Programs/constrDerived2.cpp) $\rightarrow$ To understand this program please refer to this [table](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsInDerivedClasses/Note1.md#table-showing-how-execution-of-base-class-constructors-takes-place).
 
