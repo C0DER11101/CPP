@@ -34,12 +34,18 @@ BaseN(argListN)
 
 <tr>
 <td rowspan="2"><code>class B:public A{};</code></td>
+</tr>
+
+<tr>
 <td><code>A();</code>$\rightarrow$ The base constructor</td>
 <td><code>B();</code>$\rightarrow$ The derived constructor</td>
 </tr>
 
 <tr>
 <td rowspan="3"><code>class A:public B, public C{};</code></td>
+</tr>
+
+<tr>
 <td><code>B();</code>$rightarrow$ The base constructor(first)</td>
 <td><code>C();</code>$rightarrow$ The base constructor(second)</td>
 <td><code>A();</code>$rightarrow$ The derived constructor</td>
@@ -47,6 +53,9 @@ BaseN(argListN)
 
 <tr>
 <td rowspan="3"><code>class A:public C, public B{};</code></td>
+</tr>
+
+<tr>
 <td><code>C();</code>$rightarrow$ The base constructor(first)</td>
 <td><code>B();</code>$rightarrow$ The base constructor(second)</td>
 <td><code>A();</code>$rightarrow$ The derived constructor</td>
@@ -54,6 +63,9 @@ BaseN(argListN)
 
 <tr>
 <td rowspan="3"><code>class A:public B, virtual public C{};</code></td>
+</tr>
+
+<tr>
 <td><code>C();</code>$rightarrow$ The virtual base class constructor</td>
 <td><code>B();</code>$rightarrow$ The base constructor</td>
 <td><code>A();</code>$rightarrow$ The derived constructor</td>
