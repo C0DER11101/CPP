@@ -1,6 +1,6 @@
 # Constructors in derived classes
 
-* **If base class constructor takes **no arguments** then the derived classes **neednot** have a constructor function.
+* If base class constructor takes **no arguments** then the derived classes **neednot** have a constructor function.
 * If **any base class constructor** takes **atleast one argument** then it is **mandatory** for the **derived classes** to have a constructor and pass the arguments to the base constructor.
 
 * In case of **multiple inheritance**, the base classes are constructed in the **order in which they appear in the _declaration_ of the derived class.**
