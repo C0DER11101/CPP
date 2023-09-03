@@ -45,6 +45,9 @@ BaseN(argListN)
 </tr>
 
 <tr>
+</tr>
+
+<tr>
 <td rowspan="4"><code>class A:public B, public C{};</code></td>
 </tr>
 
@@ -61,6 +64,9 @@ BaseN(argListN)
 </tr>
 
 <tr>
+</tr>
+
+<tr>
 <td rowspan="4"><code>class A:public C, public B{};</code></td>
 </tr>
 
@@ -74,6 +80,9 @@ BaseN(argListN)
 
 <tr>
 <td><code>A();</code>$\rightarrow$ The derived constructor</td>
+</tr>
+
+<tr>
 </tr>
 
 <tr>
