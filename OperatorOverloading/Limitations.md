@@ -33,6 +33,36 @@
 
 </table>
 
+# Operators that have to be a member function of the class in which they are defined in
+
+<table>
+<tr>
+<td><strong>Operator</strong</td>
+<td><strong>Description</strong</td>
+</tr>
+
+<tr>
+<td><code>=</code></td>
+<td>Assignment operator</td>
+</tr>
+
+<tr>
+<td><code>()</code></td>
+<td>Function call operator</td>
+</tr>
+
+<tr>
+<td><code>[]</code></td>
+<td>Subscripting operator</td>
+</tr>
+
+<tr>
+<td><code>-></code></td>
+<td>Class member access operator</td>
+</tr>
+
+</table>
+
 <p align="center">
 &#9678; &#9678; &#9678;
 </p>
