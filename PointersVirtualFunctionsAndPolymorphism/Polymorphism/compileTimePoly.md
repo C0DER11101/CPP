@@ -1,6 +1,6 @@
 # Compile time polymorphism
 
-* <ins>Meaning</ins>: The decision regarding which function to call is done at compile time.
+* <ins>Meaning</ins>: The decision regarding which function to call is taken at compile time.
 * It's also called **early** or **static** binding or **static** linking.
 * It's achieved in two ways:
 	* **Function overloading.**
