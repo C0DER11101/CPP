@@ -1,0 +1,38 @@
+# Operators that cannot be overloaded
+
+<table>
+<tr>
+<td><strong>Operator</strong></td>
+<td><strong>Description</strong></td>
+</tr>
+
+<tr>
+<td><code>sizeof()</code></td>
+<td>The size of operator</td>
+</tr>
+
+<tr>
+<td><code>.</code></td>
+<td>Membership operator</td>
+</tr>
+
+<tr>
+<td><code>.*</code></td>
+<td>Pointer-to-member operator</td>
+</tr>
+
+<tr>
+<td><code>::</code></td>
+<td>Scope resolution operator</td>
+</tr>
+
+<tr>
+<td><code>?:</code></td>
+<td>Conditional operator</td>
+</tr>
+
+</table>
+
+<p align="center">
+&#9678; &#9678; &#9678;
+</p>
