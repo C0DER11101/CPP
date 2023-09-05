@@ -8,13 +8,3 @@
 
 * [Program-1](https://github.com/C0DER11101/CPP/blob/quickCPP/PointersVirtualFunctionsAndPolymorphism/Polymorphism/Programs/main1.cpp) $\rightarrow$ this is the simplest example of compile-time polymorphism.
 * [Program-2](https://github.com/C0DER11101/CPP/blob/quickCPP/PointersVirtualFunctionsAndPolymorphism/Polymorphism/Programs/main2.cpp) $\rightarrow$ this is another program that implements compile-time polymorphism.
-
-# Run time polymorphism
-
-* The decision regarding which function to call is done at run time.
-* Also called **late** or **dynamic** binding.
-* Achieved with the help of **virtual functions**.
-
-<p align="center">
-&#9678; &#9678; &#9678;
-</p>
