@@ -63,6 +63,8 @@
 
 </table>
 
+These function **cannot** be used as **friend** functions!
+
 <p align="center">
 &#9678; &#9678; &#9678;
 </p>
