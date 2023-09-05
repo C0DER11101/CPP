@@ -1,4 +1,4 @@
-// Simplest example for compile time polymorphism:
+// Simplest example of compile time polymorphism:
 
 #include<iostream>
 
