@@ -14,7 +14,7 @@ class Sub: public Super{
 
 	public:
 		void display(){
-			cout<<"In Super\n";
+			cout<<"In Sub\n";
 		}
 };
 
