@@ -20,7 +20,7 @@ class Super{
 
 int main(void){
 
-	Super<> superObj1(12, 'a');
+	Super<> superObj1(12, 'a');                // Using the default types in the templates!!
 
 	Super<char, double> superObj2('b', 34.5);
 
