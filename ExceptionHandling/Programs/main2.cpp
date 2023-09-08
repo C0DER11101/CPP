@@ -53,7 +53,7 @@ void test(){
 		cout<<"Exception: ";
 		s2.exceptionSub2();
 
-		throw;
+		throw;                        // gets re-thrown to the enclosing try/catch block
 	}
 
 	catch(Sub1& s1){
@@ -61,7 +61,7 @@ void test(){
 		cout<<"Exception: ";
 		s1.exceptionSub1();
 
-		throw;
+		throw;                        // gets re-thrown to the enclosing try/catch block
 	}
 
 	catch(Super& s){
@@ -69,13 +69,13 @@ void test(){
 		cout<<"Exception: ";
 		s.exceptionSuper();
 
-		throw;
+		throw;                        // gets re-thrown to the enclosing try/catch block
 	}
 }
 
 int main(void){
 
-	try{
+	try{                                             // this is the enclosing try/catch block! Why enclosing? Because from here starts the re-throwing of exceptions. From the function call: test();
 		cout<<"In try block of main()\n";
 
 		test();
