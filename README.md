@@ -15,7 +15,7 @@
 11. [Constructors in Derived classes](https://github.com/C0DER11101/CPP/tree/quickCPP/ConstructorsInDerivedClasses).
 12. [Embedded classes](https://github.com/C0DER11101/CPP/tree/quickCPP/EmbeddedClasses).
 13. [Operator overloading](https://github.com/C0DER11101/CPP/tree/quickCPP/OperatorOverloading).
-14. [Type conversions in classes](https://github.com/C0DER11101/CPP/tree/quickCPP/Conversions).
+14. [Type conversions among incompatible types](https://github.com/C0DER11101/CPP/tree/quickCPP/Conversions).
 15. [Pointers, virtual functions and polymorphism](https://github.com/C0DER11101/CPP/tree/quickCPP/PointersVirtualFunctionsAndPolymorphism).
 	1. [The `this` pointer](https://github.com/C0DER11101/CPP/tree/quickCPP/PointersVirtualFunctionsAndPolymorphism/ThisPointer).
 	2. [Abstract classes](https://github.com/C0DER11101/CPP/tree/quickCPP/AbstractClasses).
