@@ -41,6 +41,7 @@ catch(type argument){
 	1. `throw(exception);`
 	2. `throw exception;`
 	3. `throw;`
+
 `exception` can be of any type, **including constants**.
 
 ## <ins>Catching mechanism</ins>
@@ -55,6 +56,10 @@ catch(type arg){
 ## <ins>Multiple catch statements</ins>
 * When there are multiple **catch** statements then they work pretty much like the **switch** case.
 * The thrown exception is compared for a match with each **catch** argument, the first catch argument to yield a match is executed and after that the rest catches are **skipped**.
+
+* [This program](https://github.com/C0DER11101/CPP/blob/quickCPP/ExceptionHandling/Programs/main1.cpp) shows multiple catch statements.
+
+* `catch(...){}` i.e. the catch with ellipses **catches all types of exceptions**. It's like that **default** label in **switch case**.
 
 <p align="center">
 &#9678; &#9678; &#9678;
