@@ -1,5 +1,5 @@
-<head><details>
-<summary>Contents</summary></head>
+<h1><details>
+<summary>Contents</summary></h1>
 
 1. [Basics](https://github.com/C0DER11101/CPP/tree/quickCPP/Basics).
 2. [Memory management](https://github.com/C0DER11101/CPP/tree/quickCPP/MemManagement).
