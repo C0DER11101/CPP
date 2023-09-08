@@ -27,6 +27,9 @@ void h(void i() throw(int));
 // typedef int (*j)() throw(int); // THIS IS AN ERROR!!
 ```
 
+* Visit [this link](https://www.ibm.com/docs/en/zos/2.5.0?topic=only-exception-specifications-c) for more.
+* Also [here](https://stackoverflow.com/questions/47727108/are-dynamic-exception-specifications-invalid-in-c17) is something about C++17.
+
 <p align="center">
 &#9678; &#9678; &#9678;
 </p>
