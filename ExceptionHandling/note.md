@@ -61,6 +61,21 @@ catch(type arg){
 
 * `catch(...){}` i.e. the catch with ellipses **catches all types of exceptions**. It's like that **default** label in **switch case**.
 
+## <ins>Re-throwing an exception</ins>
+* Exceptions are **re-thrown** by the **catch block**.
+${\color{Yellow}General\ form\:}$
+```c++
+catch;
+```
+* When an exception is **re-thrown**, it won't be caught by the same catch statement or by any other catch in that group.
+* [This program](https://github.com/C0DER11101/CPP/blob/quickCPP/ExceptionHandling/Programs/main2.cpp) demonstrates the re-throwing of an exception.
+
+In this program we can see that the exception that is rethrown from the `test()` function gets caught by one of the `catch()` statements in `main()` rather than getting caught by the `catch()` that was right below the `catch()` that re-threw the exception. Now read this :point_down:.
+
+* Basically, a **re-thrown** exception gets thrown to the **NEXT** ${\color{Yellow}enclosing}$ <strong><ins>try/catch</strong></ins> sequence.
+
+* Visit [this link](https://www.ibm.com/docs/en/i/7.2?topic=only-rethrowing-exception-c) for more help.
+
 <p align="center">
 &#9678; &#9678; &#9678;
 </p>
