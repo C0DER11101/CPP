@@ -1,5 +1,6 @@
-# <details>
-<summary>Contents</summary>
+# Contents
+<details>
+<summary>Collapse contents</summary>
 
 1. [Basics](https://github.com/C0DER11101/CPP/tree/quickCPP/Basics).
 2. [Memory management](https://github.com/C0DER11101/CPP/tree/quickCPP/MemManagement).
