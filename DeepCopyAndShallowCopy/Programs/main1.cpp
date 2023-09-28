@@ -19,7 +19,7 @@ class train
 		body=new int[bogie];
 	}
 
-	train(train &t)
+	train(train &t)      // copy constructor
 	{
 		bogie=t.bogie;
 		body=t.body; //train t2's body is storing the address of the train t1's body!! This is not allowed!!
