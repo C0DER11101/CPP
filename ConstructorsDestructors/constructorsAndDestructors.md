@@ -29,11 +29,19 @@ className::className()
 ```c++
 className classObject=className(actual arguments);
 ```
+
+<p align="center">
+OR
+</p>
+
+```c++
+className classObject(actual arguments);
+```
 [Sample program](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsDestructors/Programs/parameterizedCons.cpp).
 
 2. <ins>Implicit call</ins>:
 ```c++
-className classObject(actual arguments);
+className classObject=value;
 ```
 [Sample program](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsDestructors/Programs/parameterizedCons2.cpp).
 
