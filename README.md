@@ -25,6 +25,7 @@
 16. [Templates](https://github.com/C0DER11101/CPP/tree/quickCPP/Templates).
 17. [Exception handling](https://github.com/C0DER11101/CPP/tree/quickCPP/ExceptionHandling).
 18. [Deep copy and Shallow copy](https://github.com/C0DER11101/CPP/tree/quickCPP/DeepCopyAndShallowCopy).
+19. [Namespaces](https://github.com/C0DER11101/CPP/tree/quickCPP/Namespaces).
 
 </details>
 
