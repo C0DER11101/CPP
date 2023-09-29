@@ -22,11 +22,15 @@
 	3. [Virtual functions](https://github.com/C0DER11101/CPP/tree/quickCPP/PointersVirtualFunctionsAndPolymorphism/VirtualFunctions).
 	4. [Virtual constructors and destructors](https://github.com/C0DER11101/CPP/tree/quickCPP/PointersVirtualFunctionsAndPolymorphism/VirtualConstructorsAndDestructors).
 	5. [Polymorphism](https://github.com/C0DER11101/CPP/tree/quickCPP/PointersVirtualFunctionsAndPolymorphism/Polymorphism).
-16. [Templates](https://github.com/C0DER11101/CPP/tree/quickCPP/Templates).
-17. [Exception handling](https://github.com/C0DER11101/CPP/tree/quickCPP/ExceptionHandling).
-18. [Deep copy and Shallow copy](https://github.com/C0DER11101/CPP/tree/quickCPP/DeepCopyAndShallowCopy).
-19. [Namespaces](https://github.com/C0DER11101/CPP/tree/quickCPP/Namespaces).
-20. [Nested classes](https://github.com/C0DER11101/CPP/tree/quickCPP/NestedClasses).
+16. [Virtual Base classes](https://github.com/C0DER11101/CPP/tree/quickCPP/VirtualBaseClasses).
+17. [Templates](https://github.com/C0DER11101/CPP/tree/quickCPP/Templates).
+18. [Exception handling](https://github.com/C0DER11101/CPP/tree/quickCPP/ExceptionHandling).
+19. [Deep copy and Shallow copy](https://github.com/C0DER11101/CPP/tree/quickCPP/DeepCopyAndShallowCopy).
+20. [Namespaces](https://github.com/C0DER11101/CPP/tree/quickCPP/Namespaces).
+21. [Nested classes](https://github.com/C0DER11101/CPP/tree/quickCPP/NestedClasses).
+22. [Miscellaneous](https://github.com/C0DER11101/CPP/tree/quickCPP/Miscellaneous).
+	1. [The `explicit` keyword](https://github.com/C0DER11101/CPP/tree/quickCPP/Miscellaneous/Explicit).
+	2. [The `mutable` keyword](https://github.com/C0DER11101/CPP/tree/quickCPP/Miscellaneous/Mutable).
 
 </details>
 
