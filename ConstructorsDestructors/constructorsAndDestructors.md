@@ -45,6 +45,8 @@ className classObject=value;
 ```
 [Sample program](https://github.com/C0DER11101/CPP/blob/quickCPP/ConstructorsDestructors/Programs/parameterizedCons2.cpp).
 
+* Do visit [this link](https://www.google.com/search?client=firefox-b-lm&q=implicit+constructor+call+in+C%2B%2B#fpstate=ive&vld=cid:ce08f069,vid:vcDzQWVM9vs,st:0).
+
 
 <details>
 <summary>NOTE</summary>
