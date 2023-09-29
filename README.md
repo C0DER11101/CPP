@@ -26,6 +26,7 @@
 17. [Exception handling](https://github.com/C0DER11101/CPP/tree/quickCPP/ExceptionHandling).
 18. [Deep copy and Shallow copy](https://github.com/C0DER11101/CPP/tree/quickCPP/DeepCopyAndShallowCopy).
 19. [Namespaces](https://github.com/C0DER11101/CPP/tree/quickCPP/Namespaces).
+20. [Nested classes](https://github.com/C0DER11101/CPP/tree/quickCPP/NestedClasses).
 
 </details>
 
