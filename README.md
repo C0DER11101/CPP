@@ -16,7 +16,7 @@
 12. [Embedded classes](https://github.com/C0DER11101/CPP/tree/quickCPP/EmbeddedClasses).
 13. [Operator overloading](https://github.com/C0DER11101/CPP/tree/quickCPP/OperatorOverloading).
 14. [Type conversions among incompatible types](https://github.com/C0DER11101/CPP/tree/quickCPP/Conversions).
-15. [Pointers, virtual functions and polymorphism](https://github.com/C0DER11101/CPP/tree/quickCPP/PointersVirtualFunctionsAndPolymorphism).
+15. Pointers, virtual functions and polymorphism:
 	1. [The `this` pointer](https://github.com/C0DER11101/CPP/tree/quickCPP/PointersVirtualFunctionsAndPolymorphism/ThisPointer).
 	2. [Abstract classes](https://github.com/C0DER11101/CPP/tree/quickCPP/AbstractClasses).
 	3. [Virtual functions](https://github.com/C0DER11101/CPP/tree/quickCPP/PointersVirtualFunctionsAndPolymorphism/VirtualFunctions).
@@ -28,7 +28,7 @@
 19. [Deep copy and Shallow copy](https://github.com/C0DER11101/CPP/tree/quickCPP/DeepCopyAndShallowCopy).
 20. [Namespaces](https://github.com/C0DER11101/CPP/tree/quickCPP/Namespaces).
 21. [Nested classes](https://github.com/C0DER11101/CPP/tree/quickCPP/NestedClasses).
-22. [Miscellaneous](https://github.com/C0DER11101/CPP/tree/quickCPP/Miscellaneous).
+22. Miscellaneous:
 	1. [The `explicit` keyword](https://github.com/C0DER11101/CPP/tree/quickCPP/Miscellaneous/Explicit).
 	2. [The `mutable` keyword](https://github.com/C0DER11101/CPP/tree/quickCPP/Miscellaneous/Mutable).
 
