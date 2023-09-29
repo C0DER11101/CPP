@@ -62,6 +62,11 @@ int main(void){
 ## The `using` declaration
 * We can also use the `using` declaration with a namespace member so that we don't have to use the `::`operator with that particular member of the namespace, but the rest of the members need to be accessed via the `::` operator.
 
+${\color{Yellow}General\ Syntax\:}$
+```c++
+using namespaceName::namespaceMemberName;
+```
+
 Look at the code below:
 ```c++
 #include<iostream>
