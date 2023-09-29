@@ -21,8 +21,10 @@ void sample::show(){
 
 int main(void){
 	sample smp=sample(100, 200); // explicit constructor call
+	sample smp2(200, 500);       // also an explicit constructor call
 
 	smp.show();
+	smp2.show();
 
 	return 0;
 }
