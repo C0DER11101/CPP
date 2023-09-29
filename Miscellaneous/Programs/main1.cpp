@@ -18,10 +18,10 @@ class A{
 
 int main(void){
 	A a(100);
-	//A b=100;               // ERROR!
+	A b=100;               // ERROR!
 
 	a.show();
-	//b.show();
+	b.show();
 
 	return 0;
 }
